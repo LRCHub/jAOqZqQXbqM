@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "サクラミラージュ",
+  "base_artist": "ReGLOSS",
+  "createdAt": "2026-01-07T05:34:09.912396Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サクラミラージュ",
+      "artist": "ReGLOSS",
+      "has_synced": true,
+      "path": "select/01_サクラミラージュ_ReGLOSS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サクラミラージュ（Instrumental）",
+      "artist": "ReGLOSS",
+      "has_synced": false,
+      "path": "select/02_サクラミラージュ(Instrumental)_ReGLOSS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サクラミラージュ",
+      "artist": "ReGLOSS",
+      "has_synced": false,
+      "path": "select/pl_01_サクラミラージュ_ReGLOSS.txt"
+    }
+  ]
+}
